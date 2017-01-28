@@ -1,5 +1,3 @@
 # User Centred Design Canvas
 
-```
-![alt tag](http://url/to/img.png)
-```
+![User Centred Design Canvas/master/screenshot.png](https://raw.githubusercontent.com/olliecaine27/user-centred-design-canvas/master/screenshot.png)
