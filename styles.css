@@ -4,6 +4,7 @@
 
 h1 {
 	display: block;
+	margin-bottom: .5em;
 	text-align: center;
 }
 
@@ -16,6 +17,12 @@ h2 {
 ul {
     padding-left: 0;
     text-align: center;
+}
+
+.block-link {
+	display: block;
+	margin-bottom: 2em;
+	text-align: center;
 }
 
 .container {
